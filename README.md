@@ -1,4 +1,4 @@
-# Job-Market-Intelligence_powerBi_dashboard
+# Job-Market-Intelligence_PowerBi_Dashboard
 Project Category: Intermediate
 [Click Here to get Dataset](https://www.kaggle.com/datasets/mjawad17/tech-jobs-salaries-and-skills-dataset)
 
