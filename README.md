@@ -2,14 +2,14 @@
 Project Category: Intermediate
 [Click Here to get Dataset](https://www.kaggle.com/datasets/mjawad17/tech-jobs-salaries-and-skills-dataset)
 
-##🎯 Objectives
+🎯 Objectives
 ▪Analyze job distribution across roles, locations, and industries
 ▪Uncover salary trends by job type, category, and experience level
 ▪Identify the most in-demand technical skills for career planning
 ▪Compare hiring behavior across company sizes and job types
 ▪Enable data-driven career decisions through interactive Power BI visuals
 
-##📁 Dataset Overview
+📁 Dataset Overview
 ▪ An interactive Power BI dashboard analyzing 250 real-world job listings across 11+ cities in the USA, Canada, and Remote. The dashboard uncovers hiring trends, salary benchmarks, in-demand skills, and education requirements across the tech industry.
 
 ![image alt](https://github.com/ranajmi10/Job-Market-Intelligence_powerBi_dashboard/blob/main/Job_Market_Dashboard.png)
