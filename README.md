@@ -2,12 +2,19 @@
 Project Category: Intermediate
 [Click Here to get Dataset](https://www.kaggle.com/datasets/mjawad17/tech-jobs-salaries-and-skills-dataset)
 
-## Overview
+##🎯 Objectives
+▪Analyze job distribution across roles, locations, and industries
+▪Uncover salary trends by job type, category, and experience level
+▪Identify the most in-demand technical skills for career planning
+▪Compare hiring behavior across company sizes and job types
+▪Enable data-driven career decisions through interactive Power BI visuals
+
+##📁 Dataset Overview
 ▪ An interactive Power BI dashboard analyzing 250 real-world job listings across 11+ cities in the USA, Canada, and Remote. The dashboard uncovers hiring trends, salary benchmarks, in-demand skills, and education requirements across the tech industry.
 
 ![image alt](https://github.com/ranajmi10/Job-Market-Intelligence_powerBi_dashboard/blob/main/Job_Market_Dashboard.png)
 
-Key Insights Delivered:
+🔍Key Insights Delivered:
 1. Most In-Demand Roles:
 ▪ Machine Learning Engineer (14), Technical Lead (13), Solutions Architect (13), and Software Engineer (13) top the list — AI/ML and senior technical roles are dominating hiring.
 2. Top Hiring Cities :
@@ -20,4 +27,7 @@ Key Insights Delivered:
 4. Experience & Education:
 ▪ Average experience required: 4.2 years (range: 0–12 years)
 ▪ Master's Degree is most required (19.6%), but 16.4% of listings leave education "Unspecified" — skills-first hiring is rising
+
+✅ Conclusion
+The Job Market Intelligence Dashboard reveals that the tech hiring landscape is driven by AI/ML demand, cloud skills, and flexible work models. Austin has emerged as the #1 hiring city. Python, AWS, and Kubernetes form the core of what employers want. Salaries are competitive ($89K–$156K average), and skills-first hiring is gaining traction over rigid degree requirements. This dashboard helps job seekers, recruiters, and HR teams make faster, smarter decisions backed by data.
 
