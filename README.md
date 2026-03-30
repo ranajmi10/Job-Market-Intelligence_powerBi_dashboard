@@ -4,9 +4,13 @@ Project Category: Intermediate
 
 🎯 Objectives
 ▪Analyze job distribution across roles, locations, and industries
+
 ▪Uncover salary trends by job type, category, and experience level
+
 ▪Identify the most in-demand technical skills for career planning
+
 ▪Compare hiring behavior across company sizes and job types
+
 ▪Enable data-driven career decisions through interactive Power BI visuals
 
 📁 Dataset Overview
