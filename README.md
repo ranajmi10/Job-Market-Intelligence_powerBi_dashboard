@@ -3,6 +3,7 @@ Project Category: Intermediate
 [Click Here to get Dataset](https://www.kaggle.com/datasets/mjawad17/tech-jobs-salaries-and-skills-dataset)
 
 🎯 Objectives
+
 ▪Analyze job distribution across roles, locations, and industries
 
 ▪Uncover salary trends by job type, category, and experience level
